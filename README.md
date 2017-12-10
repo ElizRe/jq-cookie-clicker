@@ -6,8 +6,6 @@ Votre code ira dans le fichier `app.js`
 
 Pour commencer, dans le dossier faites `npm install` pour récupèrer les dépendaneces.
 
-N'oubliez pas de lancer `caddy` dans le dossier. 
-
 
 ## Bonus
 - Tous les 20 click, demandez à l'utilisateur de trouver une activité plus productive via un `alert`
