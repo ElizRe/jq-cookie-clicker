@@ -1,7 +1,9 @@
+$(document).ready(function(){
+	
 var randomMessages = ["clicking is bad for you","aren't you bored yet?","you should be studying"]
 var cookieCount = 0;
 
-$(document).ready(function(){
+
 
 	$(".cake").click(function() {
 		cookieCount += 1;
